@@ -2,10 +2,17 @@ body {
     height: 100vh;
 }
 
-.brand-name h1 {
-    font-size: 2.5rem;
+.kuro-header img {
+    max-width: 750px;
 }
+
+
 
 a {
     text-decoration: none;
+}
+
+
+.brand-name h1 {
+    font-size: 2.5rem;
 }
